@@ -8,4 +8,6 @@
 5.+++
 7. Working software is the primary measure of progress. 
 5. Projects are built around motivated individuals, who should be trusted
+6. Підпис
+
 
