@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 5. Projects are built around motivated individuals, who should be trusted
+=======
+6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+>>>>>>> 30f2fa4ab223baeaae48d985c2099d07ebded909
