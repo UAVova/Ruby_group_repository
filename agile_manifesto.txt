@@ -5,6 +5,7 @@
 5.Над проектом повинні працювати вмотивовані професіонали. Щоб робота була виконана, створіть їм умови, надайте підтримку і повністю на них покладіться.
 5+.Test
 5.++
+5.+++
 7. Working software is the primary measure of progress. 
 5. Projects are built around motivated individuals, who should be trusted
 
